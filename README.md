@@ -38,5 +38,4 @@ This project requires a specific version of the Android NDK to compile successfu
 
 ## 📱 Screenshots
 
-<img src="assets/images/screen.png" alt="Main Screen" width="300"/>
-<img src="assets/images/printer.jpg" alt="Printer Interface" width="300"/>
+<img src="assets/images/screen.png" alt="Main Screen" width="300"/><img src="assets/images/printer.jpg" alt="Printer Interface" width="300"/>
