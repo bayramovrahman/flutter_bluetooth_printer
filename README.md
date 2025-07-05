@@ -39,5 +39,5 @@ This project requires a specific version of the Android NDK to compile successfu
 ## 📱 Screenshots
 
 > Screenshots:
-assets/images/screen.png
-assets/images/printer.png
+(assets/images/screen.png)
+(assets/images/printer.jpg)
